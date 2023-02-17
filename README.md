@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Ridho Adriandy</h1>
 <h3 align="center">Hello, my name is Muhammad Ridho Adriandy, and I am a recent D4 graduate of Information Technology majoring in computer science from Politeknik Caltex Riau. With a cumulative GPA of 3.73, I have a strong academic background in computer science and a natural talent for programming and system engineering.</h3>
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/00/62/eb/0062ebd0ed46176fafc0d84916c067e2.gif")
+<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/00/62/eb/0062ebd0ed46176fafc0d84916c067e2.gif](https://media1.tenor.com/images/11c5360a19960c9fe2d014f66c283b06/tenor.gif?itemid=17876456)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhoadriandy&label=Profile%20views&color=0e75b6&style=flat" alt="ridhoadriandy" /> </p>
 
