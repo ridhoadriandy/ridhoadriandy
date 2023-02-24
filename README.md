@@ -1,10 +1,11 @@
-<p align="center">
-  <a href="https://github.com/ridhoadriandy"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="300" width="60%"></a>
-</p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">, I'm Muhammad Ridho Adriandy</h1>
+<h3></h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/00/62/eb/0062ebd0ed46176fafc0d84916c067e2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhoadriandy&label=Profile%20views&color=0e75b6&style=flat" alt="ridhoadriandy" /> </p>
+
+
+[![bookmark.style](https://svg.bookmark.style/api?url=https://bookmark.style/&mode=light&style=horizontal)](https://www.airnavindonesia.co.id/index.php)
 
 - 🔭 I’m currently working on **..**
 
