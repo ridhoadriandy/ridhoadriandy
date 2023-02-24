@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="[https://www.edisonlee55.com](https://github.com/ridhoadriandy)"><img src="[banner.png](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)" alt="edisonlee55 Banner"></a>
+  <a href="https://github.com/ridhoadriandy"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></a>
 </p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">, I'm Muhammad Ridho Adriandy</h1>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/00/62/eb/0062ebd0ed46176fafc0d84916c067e2.gif">
