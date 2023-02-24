@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhoadriandy&label=Profile%20views&color=0e75b6&style=flat" alt="ridhoadriandy" /> </p>
 
 
-[![bookmark.style](https://svg.bookmark.style/api?url=https://bookmark.style/&mode=light&style=horizontal)](https://www.airnavindonesia.co.id/index.php))](https://bookmark.style)
-
 - 🔭 I’m currently working on **..**
 
 - 👯 I’m looking to collaborate on **..**
